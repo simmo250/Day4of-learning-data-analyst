@@ -1,0 +1,9 @@
+ASSIGNMENT - 1
+1. Create a database named OnlineBookstore and select it for use
+2. Create a table named Authors with the following specifications
+● AuthorID: Integer and primary key( can be made auto increment)
+● FirstName: Variable character with a maximum length of 50, cannot be null
+● LastName: Variable character with a maximum length of 50, cannot be null
+3. Create a table named Categories with the following specifications
+● CategoryID: integer and primary key
+● CategoryName: Variable character with a maximum length of 50, unique
